@@ -16,6 +16,8 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Put these values in .env file
+
 ```.env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=Put_YOUR_CLERK_KEY_PUBLISHABLE
 CLERK_SECRET_KEY=Put_YOUR_CLERK_KEY
